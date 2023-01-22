@@ -26,7 +26,7 @@ export const NavBar = () => {
             height={70}
           />
           <Text color="white" h2>P</Text>
-          <Text color="white" h3>okémon</Text>
+          <Text color="white" h3>okémon!</Text>
         </div>
       </NextLink>
       <Spacer css={{ flex: 1 }} />
